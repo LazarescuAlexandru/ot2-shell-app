@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0032c120-08f0-4cff-927a-bb9e3241465d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ot2-shell-app",
+    "appService.deploySubpath": "."
+}
